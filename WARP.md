@@ -1,7 +1,9 @@
 # WARP.md
 
 This file provides guidance to WARP (warp.dev) when working with code in this repository.
+git remote add origin https://github.com/deeps951/roller-derby-frontline.git
 
+https://deeps951.github.io/roller-derby-frontline/
 ## Project Overview
 
 This is a static website project showcasing a Roller Derby theme using Bootstrap 5. The site is a single-page application with smooth scrolling navigation and modern Bootstrap components.
