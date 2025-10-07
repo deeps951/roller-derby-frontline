@@ -1,0 +1,35 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.hero {
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+        url('https://images.pexels.com/photos/15376038/pexels-photo-15376038.jpeg?auto=compress&cs=tinysrgb&w=1600') center/cover no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 0 3px 15px rgba(0, 0, 0, 0.8);
+}
+
+.hero h1 {
+    color: #fff;
+}
+
+.hero p {
+    color: #e0e0e0;
+}
+
+.hero .btn-danger {
+    background-color: #e63946;
+    border: none;
+}
+
+.hero .btn-danger:hover {
+    background-color: #d62828;
+}
+
+section {
+    scroll-margin-top: 70px;
+}
